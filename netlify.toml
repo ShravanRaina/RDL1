@@ -1,0 +1,6 @@
+[build]
+  command = "npm run build" # Change this to your build command
+  publish = "dist"          # Change this to your build output directory
+
+[dev]
+  command = "npm run start" # Change this to your development server command
